@@ -1,0 +1,26 @@
+{
+ "id": "/",
+ "name": "Fútbol 3D Champions",
+ "short_name": "Fútbol 3D",
+ "description": "Juego de fútbol 3D: partido rápido, Champions, Mundial, carrera y tanda de penaltis.",
+ "start_url": "./index.html",
+ "scope": "./",
+ "display": "fullscreen",
+ "orientation": "landscape",
+ "background_color": "#06150c",
+ "theme_color": "#0d3b1e",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  }
+ ]
+}
